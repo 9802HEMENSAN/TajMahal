@@ -1,0 +1,9 @@
+register/login
+
+{
+"name" :"Amruth",
+"email" : "amruth131@gmail.com",
+"password": "amruth"
+}
+
+
